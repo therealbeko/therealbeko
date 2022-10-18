@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @therealbeko aka Beko!
+- 👋 Hi, I’m @therealbeko.
 
-Programming has always interested me which is why I decided to teach myself.
-
-I will try to implement the learned in small projects and upload them here.
-
-I am curious where my journey will take me. 🤭
+“Hard work is worthless for those that don't believe in themselves.”
 
 <!---
 Amox0/Amox0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
