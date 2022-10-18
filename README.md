@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @therealbeko.
-
 “Hard work is worthless for those that don't believe in themselves.”
 
 <!---
